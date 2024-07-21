@@ -3,7 +3,7 @@ This repository contains the source code for a weather application that allows y
 
 Features:
 
-City Search: Enter a city name or zip code to access its current weather conditions.
+City Search: Enter a city name or to access its current weather conditions.
 Weather Data: View details like temperature, feels like, humidity, wind speed, and weather description.
 
 Technology Stack:
